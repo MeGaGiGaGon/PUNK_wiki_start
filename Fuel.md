@@ -11,9 +11,9 @@ If you run out of [[Fuel]], you will no longer be able to do any [[Movement]] be
 Sources of additional [[Fuel]] are:
 - [[Station|Stations]]
 - [[Fuel Generator|Fuel Generators]]
-- [[Glands]]
+- [[Crates]]
 - [[Blocks#Fuel Blocks|Fuel Blocks]]
-- [[Quartz Fuel Nodes]]
+- [[Blue Fruits]]
 
 # Consumption
 [[Fuel]] is only consumed when:
