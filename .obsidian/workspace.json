@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "3f6c890cc3cac28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "159a8bdddc181455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2034f942d2799ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c210360ab7f35554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8aa9797444ec554",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "853aee8a30fe1ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5d17238da5c6ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90fa003a48a7772f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "898114f38cc33b4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b28aac5081a88ed5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49869f1c7022c5e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb3cf80eb5320c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8e5c1745aae5fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Resources"
+            }
+          },
+          {
+            "id": "9457a868a617bedc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Resources"
+            }
+          },
+          {
+            "id": "d88928f23f0c0a46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08b17eebd2df495b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "68c7d05224060fc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Resources"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2034f942d2799ac7",
+  "lastOpenFiles": [
+    "Fuel.md",
+    "Quartz Fuel Nodes.md",
+    "Blocks.md",
+    "101 How to Punk.md",
+    "Modules Grid.md",
+    "Resources.md",
+    "Weapons.md",
+    "Stamina.md",
+    "Welcome.md",
+    "Pasted image 20260727232450.png",
+    "Pasted image 20260727232435.png",
+    "Pasted image 20260727232406.png",
+    "Pasted image 20260727232340.png"
+  ]
+}
