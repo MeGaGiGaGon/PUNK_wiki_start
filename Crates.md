@@ -28,18 +28,7 @@
 - 15 [[Fuel]] pickups
 
 # Green
-- One of
-(Module, (, , Module Active Caps Igniter (WeaponBasedActiveModuleData), ), 30)
-(Module, (, , Module Aug Add Burn (ModuleData), ), 30)
-(Module, (, , Module Aug Caps AddExplosion (ModuleData), ), 30)
-(Module, (, , Module Active Caps Vial (WeaponBasedActiveModuleData), ), 30)
-(Module, (, , Module Active Drone Caps (SpawnMinionModuleData), ), 20)
-(Module, (, , Module Weapon Caps Loon (WeaponModuleData), ), 20)
-(Module, (, , Module Weapon Caps Laser (WeaponModuleData), ), 10)
-(Module, (, , Module Weapon Caps Flame (WeaponModuleData), ), 10)
-(Module, (, , Module Weapon Caps Rocket (WeaponModuleData), ), 10)
-(Module, (, , Module Passive Shield Caps (ModuleData), ), 10)
-(Module, (, , Module Passive Add Caps (ModuleData), ), 1)
+- 1 [[Booster Core]]
 - 15 [[Fuel]] pickups
 - 5 [[Health]] pickups
 

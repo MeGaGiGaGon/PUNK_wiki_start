@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gold Cells.md",
+                "file": "Crates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gold Cells"
+              "title": "Crates"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gold Cells.md",
+                "file": "Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gold Cells"
+              "title": "Backlinks for Crates"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gold Cells.md",
+                "file": "Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gold Cells"
+              "title": "Outgoing links from Crates"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gold Cells.md",
+                "file": "Crates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gold Cells"
+              "title": "Outline of Crates"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "2034f942d2799ac7",
   "lastOpenFiles": [
-    "Tuff.md",
     "Gold Cells.md",
+    "Tuff.md",
     "Blob.md",
     "Bark.md",
     "Nipple.md",
