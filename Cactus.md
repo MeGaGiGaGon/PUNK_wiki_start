@@ -1,1 +1,0 @@
-Drops 10-15 [[Caps]] and one [[Gland]]
