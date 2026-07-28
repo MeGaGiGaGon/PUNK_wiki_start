@@ -14,6 +14,7 @@ Sources of additional [[Fuel]] are:
 - [[Crates]]
 - [[Blocks#Fuel Blocks|Fuel Blocks]]
 - [[Blue Fruits]]
+- [[Field Generator]]
 
 # Consumption
 [[Fuel]] is only consumed when:
