@@ -1,0 +1,1 @@
+Drops 2-3 [[Health]] pickups

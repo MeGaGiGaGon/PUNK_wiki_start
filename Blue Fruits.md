@@ -1,0 +1,1 @@
+Drops 30 [[Fuel]] pickups and one Fruit Blue Generator that makes infinite [[Fuel]]

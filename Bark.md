@@ -1,0 +1,1 @@
+Drops 1 [[Health]] pickup at a 15% chance

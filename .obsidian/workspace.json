@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Gold Cells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Gold Cells"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Gold Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resources"
+              "title": "Backlinks for Gold Cells"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Gold Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Resources"
+              "title": "Outgoing links from Gold Cells"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md",
+                "file": "Gold Cells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resources"
+              "title": "Outline of Gold Cells"
             }
           }
         ]
@@ -201,14 +201,30 @@
   },
   "active": "2034f942d2799ac7",
   "lastOpenFiles": [
+    "Tuff.md",
+    "Gold Cells.md",
+    "Blob.md",
+    "Bark.md",
+    "Nipple.md",
+    "Maracuja.md",
+    "Wheat.md",
+    "Vein Fruit.md",
+    "Tube.md",
+    "Blue Fruits.md",
+    "Boxes.md",
     "Fuel.md",
-    "Quartz Fuel Nodes.md",
-    "Blocks.md",
+    "Cactus.md",
+    "Sage.md",
+    "Fuel Generator.md",
     "101 How to Punk.md",
-    "Modules Grid.md",
+    "Crates.md",
     "Resources.md",
     "Weapons.md",
+    "Enemies.md",
     "Stamina.md",
+    "Quartz Fuel Nodes.md",
+    "Blocks.md",
+    "Modules Grid.md",
     "Welcome.md",
     "Pasted image 20260727232450.png",
     "Pasted image 20260727232435.png",

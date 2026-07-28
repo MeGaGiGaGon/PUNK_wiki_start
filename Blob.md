@@ -1,0 +1,1 @@
+Drops 1 [[Stamina]] pickup

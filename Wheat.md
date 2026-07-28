@@ -1,0 +1,1 @@
+Drops 2-3x10 [[Money]] and 1x20 [[Money]]

@@ -1,0 +1,1 @@
+Drops 1 [[Tech]] pickup
