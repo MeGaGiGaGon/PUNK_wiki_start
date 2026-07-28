@@ -19,6 +19,6 @@ Gel [[Modifiers]], [[Weapons]], and [[Gadgets]] can all be acquired by:
 You can gain passive generation using [[Gel Regen]] [[Modifiers]]
 
 Sources of additional [[Gel]] are:
-- Small Buds, dropping 1-2 [[Gel]] pickups when broken
-- Large Buds, dropping 2-3 [[Gel]] pickups when broken
-- Giant Buds, dropping 10-15 [[Gel]] pickups when broken, and 1 [[Gel#Fiber|Fiber]] pickup
+- Breaking Small Buds, dropping 1-2 [[Gel]] pickups
+- Breaking Large Buds, dropping 2-3 [[Gel]] pickups
+- Breaking Giant Buds, dropping 10-15 [[Gel]] pickups and 1 [[Gel#Fiber|Fiber]] pickup
