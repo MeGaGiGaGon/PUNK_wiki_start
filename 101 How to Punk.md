@@ -13,7 +13,7 @@
 - Connecting far [[Power Core]]s is a good use for [[Modifiers]]/[[Upgrades]] you are not using
 - [[Loadouts]] are unlocked by finding their corresponding weapon in a run
 - [[Drones]] will not target [[Station Mimic]]s
-- [[Drones]] will always target nearby [[Crates]] and [[Glands]], even if you may have wanted to save them for later
+- [[Drones]] will always target nearby [[Boxes]] and [[Crates]], even if you may have wanted to save them for later
 - Some [[Weapons]] are not affected by some [[Modifiers]], though any passive effects the [[Modifiers]] have will still apply
 - [[Drones]] always start with the full [[Resources]] given, but do not consume any to construct besides the listed count of their primary [[Resources|Resource]]
 - [[Drones]] are affected by [[Modifiers]] that target the [[Weapons|Weapon]] they use
