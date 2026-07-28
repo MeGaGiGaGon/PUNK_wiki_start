@@ -1,1 +1,0 @@
-Drops 2-3 [[Caps]] pickups
