@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modifiers.md",
+                "file": "droptablesraw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modifiers"
+              "title": "droptablesraw"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modifiers.md",
+                "file": "droptablesraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modifiers"
+              "title": "Backlinks for droptablesraw"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modifiers.md",
+                "file": "droptablesraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modifiers"
+              "title": "Outgoing links from droptablesraw"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modifiers.md",
+                "file": "droptablesraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modifiers"
+              "title": "Outline of droptablesraw"
             }
           }
         ]
@@ -201,22 +201,25 @@
   },
   "active": "2034f942d2799ac7",
   "lastOpenFiles": [
+    "Unit CrossJockCaps.png",
+    "droptablesraw.md",
+    "Unit Maggot.png",
+    "Unit FlyZapper.png",
+    "Unit Fly.png",
+    "Unit Grunt.png",
+    "Unit FlyDad.png",
+    "Unit FlyAlfa.png",
+    "Unit BouncerRed.png",
+    "Unit Zipper.png",
+    "Turret Sniper.png",
+    "Modifiers.md",
+    "droptablesraw.txt",
     "Health Up.md",
     "Stamina Up.md",
-    "Health_Up_Icon.png",
-    "Modifiers.md",
     "Resources.md",
-    "Stamina_Up_Icon.png",
-    "Ingredients_Icon_Powerstar.png",
-    "Pasted image 20260728223944.png",
     "Crates.md",
     "Ingredients.md",
-    "Ingredients_Icon_Chip.png",
-    "Ingredients_Icon_Gland.png",
-    "Ingredients_Icon_Fiber.png",
-    "Ingredients_Icon_Generator.png",
     "Fuel Generator.md",
-    "Pasted image 20260728213519.png",
     "Enemies.md",
     "Health.md",
     "Gel.md",
@@ -233,8 +236,6 @@
     "Tube.md",
     "Blue Fruits.md",
     "Boxes.md",
-    "Fuel.md",
-    "Cactus.md",
-    "Pasted image 20260727232450.png"
+    "Fuel.md"
   ]
 }
