@@ -7,7 +7,7 @@
 	- [[Add Burn]] (weight 5)
 	- [[Add Spark]] (weight 20)
 	- [[Add Gel Explosion]] (weight 5)
-	- [[Powerstar]] (weight 20)
+	- 1 [[Ingredients#Powerstar|Powerstar]] (weight 20)
 	- A random [[Weapons#Stamina Weapons|Stamina Weapon]] (weight 80)
 	- [[Stamina Up]] (weight 1)
 	- [[Teardrop]] (weight 30)
@@ -15,7 +15,6 @@
 - 15 [[Stamina]] pickups
 - 5 [[Health]] pickups
 
-<!-- TODO(GiGaGon): Figure out why the actual Generator pickup is missing from here -->
 # Generator
 - 1 [[Ingredients#Generator|Generator Ingredient]]
 - 100x10 [[Money]] pickups
