@@ -1,3 +1,9 @@
+---
+aliases:
+  - Crate
+---
+
+
 # White
 - One of
 	- [[Booster Core]] (weight 10)
