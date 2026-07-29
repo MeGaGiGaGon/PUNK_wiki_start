@@ -17,12 +17,7 @@
 
 <!-- TODO(GiGaGon): Figure out why the actual Generator pickup is missing from here -->
 # Generator
-- One of
-  - [[Field Generator]] (weight 5)
-  - [[Tech Regen]] (weight 4)
-  - [[Caps Regen]] (weight 3)
-  - [[Health Regen]] (weight 2)
-  - [[Tech Regen]] (weight 2)
+- 1 [[Ingredients#Generator|Generator Ingredient]]
 - 100x10 [[Money]] pickups
 - 15 [[Health]] pickups
 - 5 [[Health]] pickups
