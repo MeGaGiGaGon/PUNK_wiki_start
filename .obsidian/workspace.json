@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crates.md",
+                "file": "Modifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crates"
+              "title": "Modifiers"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crates.md",
+                "file": "Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Crates"
+              "title": "Backlinks for Modifiers"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crates.md",
+                "file": "Modifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Crates"
+              "title": "Outgoing links from Modifiers"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crates.md",
+                "file": "Modifiers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Crates"
+              "title": "Outline of Modifiers"
             }
           }
         ]
@@ -201,6 +201,27 @@
   },
   "active": "2034f942d2799ac7",
   "lastOpenFiles": [
+    "Health Up.md",
+    "Stamina Up.md",
+    "Health_Up_Icon.png",
+    "Modifiers.md",
+    "Resources.md",
+    "Stamina_Up_Icon.png",
+    "Ingredients_Icon_Powerstar.png",
+    "Pasted image 20260728223944.png",
+    "Crates.md",
+    "Ingredients.md",
+    "Ingredients_Icon_Chip.png",
+    "Ingredients_Icon_Gland.png",
+    "Ingredients_Icon_Fiber.png",
+    "Ingredients_Icon_Generator.png",
+    "Fuel Generator.md",
+    "Pasted image 20260728213519.png",
+    "Enemies.md",
+    "Health.md",
+    "Gel.md",
+    "Gadgets.md",
+    "Caps.md",
     "Gold Cells.md",
     "Tuff.md",
     "Blob.md",
@@ -214,21 +235,6 @@
     "Boxes.md",
     "Fuel.md",
     "Cactus.md",
-    "Sage.md",
-    "Fuel Generator.md",
-    "101 How to Punk.md",
-    "Crates.md",
-    "Resources.md",
-    "Weapons.md",
-    "Enemies.md",
-    "Stamina.md",
-    "Quartz Fuel Nodes.md",
-    "Blocks.md",
-    "Modules Grid.md",
-    "Welcome.md",
-    "Pasted image 20260727232450.png",
-    "Pasted image 20260727232435.png",
-    "Pasted image 20260727232406.png",
-    "Pasted image 20260727232340.png"
+    "Pasted image 20260727232450.png"
   ]
 }

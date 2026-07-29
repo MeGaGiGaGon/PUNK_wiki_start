@@ -1,0 +1,1 @@
+![[Stamina_Up_Icon.png]]
