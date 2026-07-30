@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2034f942d2799ac7",
+            "id": "a37939f5069f0b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "droptablesraw.md",
+                "file": "Tiles/Tile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "droptablesraw"
+              "title": "Tile"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "droptablesraw.md",
+                "file": "Tiles/Tile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for droptablesraw"
+              "title": "Backlinks for Tile"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "droptablesraw.md",
+                "file": "Tiles/Tile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from droptablesraw"
+              "title": "Outgoing links from Tile"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "droptablesraw.md",
+                "file": "Tiles/Tile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of droptablesraw"
+              "title": "Outline of Tile"
             }
           }
         ]
@@ -199,44 +199,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "2034f942d2799ac7",
+  "active": "a37939f5069f0b10",
   "lastOpenFiles": [
+    "Tiles/Bubble Tile.md",
+    "Tiles/Electricity Tile.md",
+    "Tiles/Glass Tile.md",
+    "Tiles/Gold Tile.md",
+    "Tiles/Health Tile.md",
+    "Tiles/Moss Tile.md",
+    "Tiles/Night Tile.md",
+    "Tiles/Night Tile Screenshot.png",
+    "Tiles/Plant Tile.md",
+    "Tiles/Plant Tile Screenshot.png",
+    "Tiles/Shard Tile.md",
+    "Tiles/Slime Tile.md",
+    "Tiles/Stone Tile.md",
+    "Tiles/Steam Tile.md",
+    "Tiles/Slime Tile Screenshot.png",
+    "Tiles/Steam Tile Screenshot.png",
+    "droptablesraw.md",
+    "Tiles/Tile.md",
+    "Tiles/Electricity Tile Screenshot.png",
+    "Tiles/Moss Tile Screenshot.png",
+    "Tiles/Bubble Tile Screenshot.png",
+    "Blob.md",
+    "Tiles/Shard Tile Screenshot.png",
+    "Tiles/Glass Tile Screenshot.png",
+    "Tiles/Stone Tile Screenshot.png",
+    "Bark.md",
+    "Gold Plant.md",
+    "Tiles",
+    "Gel.md",
+    "Plants.md",
+    "Gold Plants.md",
     "Stations.md",
     "Gas.md",
-    "droptablesraw.md",
-    "Enemy_Child.png",
-    "Crate_White.png",
-    "Crate_Tech.png",
-    "Crate Purple.png",
-    "Crate_Money.png",
-    "Crate_Level2.png",
-    "Crate_Green.png",
-    "Crate_Caps.png",
-    "Box_Money.png",
-    "Box_Matchbox.png",
     "Modifiers.md",
     "droptablesraw.txt",
     "Health Up.md",
-    "Stamina Up.md",
-    "Resources.md",
-    "Crates.md",
-    "Ingredients.md",
-    "Fuel Generator.md",
-    "Enemies.md",
-    "Health.md",
-    "Gel.md",
-    "Gadgets.md",
-    "Caps.md",
-    "Gold Cells.md",
-    "Tuff.md",
-    "Blob.md",
-    "Bark.md",
-    "Nipple.md",
-    "Maracuja.md",
-    "Wheat.md",
-    "Vein Fruit.md",
-    "Tube.md",
-    "Blue Fruits.md",
-    "Boxes.md"
+    "Stamina Up.md"
   ]
 }

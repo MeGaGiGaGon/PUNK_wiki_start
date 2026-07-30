@@ -480,12 +480,6 @@ DropTable Unit Fly (DropTable)
 
 ![Unit Fly](Unit_Fly.png)
 
-WheatDropTable (DropTable)
-- Count: 2-3
-  - Prefab: ResourcePickup_Money (UnityEngine.GameObject)
-- Probability: 0.1
-  - Prefab: ResourcePickup_Money_20 (UnityEngine.GameObject)
-
 DropTable Unit CrossJockPurple (DropTable)
 - Count: 100
   - Prefab: ResourcePickup_Money (UnityEngine.GameObject)
@@ -549,10 +543,6 @@ DropTable NippleCurved (DropTable)
   - Prefab: ResourcePickup_Purple (UnityEngine.GameObject)
 - Count: 1
   - Ingredient: Ingredient Coral (Ingredient)
-
-BarkDropTable (DropTable)
-- Probability: 0.15
-  - Prefab: ResourcePickup_Red (UnityEngine.GameObject)
 
 DropTable Box Health (DropTable)
 - Count: 10
@@ -659,10 +649,6 @@ DropTable Crate Caps (DropTable)
 - Count: 1-2
   - Ingredient: Ingredient Gland (Ingredient)
 ![[Crate_Caps.png]]
-
-CellType GoldDropTable (DropTable)
-- Count: 5-8
-  - Prefab: ResourcePickup_Money (UnityEngine.GameObject)
 
 NightDropTable (DropTable)
 - Probability: 0.25
