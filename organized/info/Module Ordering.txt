@@ -1,9 +1,8 @@
-Modules are ordered in a depth-first search starting from the weapon/body/gadget
-and searching up, right, down, then left.
+Modules are ordered in a depth-first search starting from the weapon/body/gadget and search up, right, down, then left.
 
 In pseudocode, the process is:
 
-```
+<code>
 module_list = new list
 
 Function gather_data:
@@ -23,12 +22,18 @@ Function gather_data:
 
     If module left of current_module exists and has connection:
         Run gather_data on module left of current_module
-```
+</code>
 
-Where to start the process, run `gather_data` on one of the ship's
-weapons, gadgets, or body.
+Where to start the process, run <code>gather_data</code> on one of the ship's weapons, gadgets, or body.
 
-Some examples of module ordering in action using images:
+---
 
-Note the "and has connection" part of the ordering, as disconnecting a path
-between two modules can radically change the resolution order:
+Following are some examples of module ordering in action using images. The images are in a gallery so you can scroll through them at your own speed. Note that for the arrows drawn, darker red equals earlier in the order.
+
+Basic search:
+
+<gallery mode="slideshow">
+File:
+</gallery>
+
+Note the "and has connection" part of the ordering, as disconnecting a path between two modules can radically change the resolution order:
