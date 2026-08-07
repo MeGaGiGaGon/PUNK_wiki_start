@@ -1,0 +1,13 @@
+{{biome infobox
+|image=Flesh Screenshot.png
+|Codenames=Flesh
+|Id=6
+|Background Tile=Bark
+|Random Items in Rooms=Random Box
+|Rooms=Small;5|Junction;8
+|Sub Biomes=Subbiome Solid
+|Ecosystems=EcoSys Flesh
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

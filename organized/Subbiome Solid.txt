@@ -1,0 +1,12 @@
+{{biome infobox
+|Codenames=Subbiome Solid
+|Id=14
+|Background Tile=Solid
+|Random Items in Rooms=Random Box
+|Rooms=Small;4|Large;1|Junction;6
+|Ecosystems=EcoSys Flesh
+|Ambient Sound=Foley 01.ogg
+}}
+<!-- TODO(GiGaGon): Figure out how to disable FOW to get image -->
+
+[[Category:Biomes]]

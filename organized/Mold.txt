@@ -1,0 +1,12 @@
+{{biome infobox
+|image=Mold Screenshot.png
+|Codenames=Mold
+|Id=21
+|Background Tile=Mud
+|Random Items in Rooms=Random Box
+|Rooms=Small;4|Large;1|Junction;6
+|Ecosystems=EcoSys Mold
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

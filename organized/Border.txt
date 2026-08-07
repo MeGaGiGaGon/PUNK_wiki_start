@@ -1,0 +1,12 @@
+{{biome infobox
+image=Border Screenshot.png
+|Codenames=Border
+|Id=1
+|Background Tile=Shard
+|Ambient Sound=Foley 01.ogg
+}}
+<!-- TODO(GiGaGon): Figure out how to disable FOW to get image -->
+
+A wall of solid [[Shard]]s that seperates the playable area from the [[Void]]
+
+[[Category:Biomes]]

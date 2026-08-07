@@ -1,0 +1,6 @@
+
+|Objects In Rooms=| sep list of entity name;weight
+From: Biom.randomObjectInRooms
+Note: Make sure RandomObjectInRooms.poiBlacklist doesn't include rooms in Biom.roomSetups, otherwise do... something TBD
+
+|Room Objects Counts=| sep list of num;weight

@@ -1,0 +1,12 @@
+{{biome infobox
+|image=Crust Screenshot.png
+|Codenames=Crust
+|Id=3
+|Background Tile=Shard
+|Random Items in Rooms=Random Box
+|Rooms=Small;4|Junction;5
+|Ecosystems=EcySys Crust
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

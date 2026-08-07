@@ -1,0 +1,12 @@
+{{biome infobox
+|image=Cave Screenshot.png
+|Codenames=Cave
+|Id=13
+|Background Tile=Solid
+|Random Items in Rooms=Random Box
+|Rooms=Small;4|Large;1|Junction;6
+|Ecosystems=EcoSys Cave
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

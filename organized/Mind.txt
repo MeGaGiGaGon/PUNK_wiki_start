@@ -1,0 +1,12 @@
+{{biome infobox
+|image=Mind Screenshot.png
+|Codenames=Mind
+|Id=8
+|Background Tile=Night
+|Random Items in Rooms=Random Box
+|Rooms=Small;3|Junction;5
+|Ecosystems=EcoSys Mind
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

@@ -1,0 +1,12 @@
+{{biome infobox
+|image=Crust Boss Screenshot.png
+|Codenames=Crust Boss
+|Id=2
+|Background Tile=Shard
+|Random Items in Rooms=Random Box
+|Rooms=Small;4
+|Ecosystems=EcoSys Crust Boss
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

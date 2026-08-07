@@ -1,0 +1,8 @@
+{{biome infobox
+|image=Void Screenshot.png
+|Codenames=Void
+|Id=12
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

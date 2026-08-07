@@ -1,0 +1,12 @@
+{{biome infobox
+|image=CaveDeep Screenshot.png
+|Codenames=CaveDeep
+|Id=22
+|Background Tile=Solid
+|Random Items in Rooms=Random Box
+|Rooms=Small;4|Large;1|Junction;5
+|Ecosystems=EcoSys CaveDeep
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

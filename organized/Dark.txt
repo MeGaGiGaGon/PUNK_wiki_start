@@ -1,0 +1,12 @@
+{{biome infobox
+|image=Dark Screenshot.png
+|Codenames=Dark
+|Id=17
+|Background Tile=Obsidian
+|Random Items in Rooms=Random Box
+|Rooms=Small;3|Junction;5
+|Ecosystems=EcoSys Dark
+|Ambient Sound=Foley 01.ogg
+}}
+
+[[Category:Biomes]]

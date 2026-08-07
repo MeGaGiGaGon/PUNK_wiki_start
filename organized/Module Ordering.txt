@@ -1,0 +1,19 @@
+Modules are ordered in a depth-first search starting from the weapon/body/gadget and search Up, Right, Down, and Left.
+
+Described in text, the process is:
+* Starting from the weapon/body/gadget
+## Give the current module the next number
+## Look at directly adjacent module slots in the order Up, Right, Down, Left
+*** If a module has already been numbered, don't consider it
+*** Be wary of modules without all 4 connections, don't consider modules not actually connected
+## If you found a new module, treat it as the current module and go back to 1
+## Otherwise, treat the module with number one less than the current module as the new current and go back to 2
+* If you reach the weapon/body/gadget again and it has no more valid modules, you are done
+
+Described in images, the process looks like this:
+
+<gallery mode="slideshow">
+File:
+</gallery>
+
+[[Category:Advanced Guides]]

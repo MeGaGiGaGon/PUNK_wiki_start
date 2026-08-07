@@ -1,0 +1,8 @@
+{{random object infobox
+|Codenames=RandomBox
+|Objects In Rooms=Box Beacon;10|Box Bomb;10|Box Matchbox;10|Box FuelGenerator;4|Box Health;30|Box Money;30
+|Room Objects Counts=0;90|1;5|2;3|3;1
+|POI Blacklist=POI Station|POI StartRoom|POI Scanner
+}}
+
+[[Category:Random Room Item]]
