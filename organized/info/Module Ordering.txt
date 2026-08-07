@@ -1,39 +1,18 @@
-Modules are ordered in a depth-first search starting from the weapon/body/gadget and search up, right, down, then left.
+Modules are ordered in a depth-first search starting from the weapon/body/gadget and search Up, Right, Down, and Left.
 
-In pseudocode, the process is:
+Described in text, the process is:
+* Starting from the weapon/body/gadget
+## Give the current module the next number
+## Look at directly adjacent module slots in the order Up, Right, Down, Left
+*** If a module has already been numbered, don't consider it
+*** Be wary of modules without all 4 connections, don't consider modules not actually connected
+## If you found a new module, treat it as the current module and go back to 1
+## Otherwise, treat the module with number one less than the current module as the new current and go back to 2
+* If you reach the weapon/body/gadget again and it has no more valid modules, you are done
 
-<code>
-module_list = new list
-
-Function gather_data:
-    Input: current_module
-
-    If current_module is powered:
-        Add current_module to module_list
-
-    If module above current_module exists and has connection:
-        Run gather_data on module above current_module
-
-    If module right of current_module exists and has connection:
-        Run gather_data on module right of current_module
-
-    If module below current_module exists and has connection:
-        Run gather_data on below of current_module
-
-    If module left of current_module exists and has connection:
-        Run gather_data on module left of current_module
-</code>
-
-Where to start the process, run <code>gather_data</code> on one of the ship's weapons, gadgets, or body.
-
----
-
-Following are some examples of module ordering in action using images. The images are in a gallery so you can scroll through them at your own speed. Note that for the arrows drawn, darker red equals earlier in the order.
-
-Basic search:
+Described in images, the process looks like this:
 
 <gallery mode="slideshow">
 File:
 </gallery>
 
-Note the "and has connection" part of the ordering, as disconnecting a path between two modules can radically change the resolution order:
