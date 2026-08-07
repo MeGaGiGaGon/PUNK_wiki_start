@@ -11,14 +11,10 @@
             "id": "a37939f5069f0b10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiles/Tile.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tile"
+              "title": "New tab"
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tiles/Tile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tile"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tiles/Tile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tile"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tiles/Tile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tile"
+              "title": "Outline"
             }
           }
         ]
@@ -201,42 +194,51 @@
   },
   "active": "a37939f5069f0b10",
   "lastOpenFiles": [
-    "Tiles/Bubble Tile.md",
+    "Wiki example storage.md",
     "Tiles/Electricity Tile.md",
-    "Tiles/Glass Tile.md",
-    "Tiles/Gold Tile.md",
-    "Tiles/Health Tile.md",
-    "Tiles/Moss Tile.md",
-    "Tiles/Night Tile.md",
-    "Tiles/Night Tile Screenshot.png",
-    "Tiles/Plant Tile.md",
-    "Tiles/Plant Tile Screenshot.png",
-    "Tiles/Shard Tile.md",
-    "Tiles/Slime Tile.md",
-    "Tiles/Stone Tile.md",
-    "Tiles/Steam Tile.md",
-    "Tiles/Slime Tile Screenshot.png",
-    "Tiles/Steam Tile Screenshot.png",
-    "droptablesraw.md",
-    "Tiles/Tile.md",
-    "Tiles/Electricity Tile Screenshot.png",
-    "Tiles/Moss Tile Screenshot.png",
-    "Tiles/Bubble Tile Screenshot.png",
-    "Blob.md",
-    "Tiles/Shard Tile Screenshot.png",
-    "Tiles/Glass Tile Screenshot.png",
-    "Tiles/Stone Tile Screenshot.png",
-    "Bark.md",
-    "Gold Plant.md",
-    "Tiles",
-    "Gel.md",
-    "Plants.md",
-    "Gold Plants.md",
-    "Stations.md",
-    "Gas.md",
-    "Modifiers.md",
-    "droptablesraw.txt",
-    "Health Up.md",
-    "Stamina Up.md"
+    "mess/Tiles/Tile.md",
+    "mess/Tiles/Stone Tile.md",
+    "mess/Tiles/Stone Tile Screenshot.png",
+    "mess/Tiles/Steam Tile.md",
+    "mess/Tiles/Steam Tile Screenshot.png",
+    "mess/Tiles/Slime Tile.md",
+    "mess/Tiles/Slime Tile Screenshot.png",
+    "mess/Tiles/Shard Tile Screenshot.png",
+    "mess/Tiles/Shard Tile.md",
+    "mess/Tiles/Plant Tile.md",
+    "mess/Tiles/Plant Tile Screenshot.png",
+    "mess/Tiles/Night Tile.md",
+    "mess/Tiles/Night Tile Screenshot.png",
+    "mess/Tiles/Moss Tile Screenshot.png",
+    "mess/Tiles/Moss Tile.md",
+    "mess/Tiles/Health Tile Screenshot.png",
+    "mess/Tiles/Health Tile.md",
+    "mess/Tiles/Gold Tile.md",
+    "mess/Tiles/Gold Tile Screenshot.png",
+    "mess/Tiles/Glass Tile.md",
+    "mess/Tiles/Glass Tile Screenshot.png",
+    "mess/Tiles/Electricity Tile.md",
+    "mess/Tiles/Bubble Tile.md",
+    "mess/Tiles",
+    "mess/Wiki example storage.md",
+    "mess/Wheat.md",
+    "mess/Weapons.md",
+    "mess/Vein Fruit.md",
+    "mess/Tuff.md",
+    "mess/Tube.md",
+    "mess/Stations.md",
+    "mess/Stamina Up.md",
+    "mess/Resources.md",
+    "mess/Modifiers.md",
+    "mess/Ingredients.md",
+    "mess",
+    "organized/info/Module Ordering.txt",
+    "organized/info/Module Ordering Gallery.mdp",
+    "organized/info",
+    "organized",
+    "wikigg generated pages/Dummy.txt",
+    "wikigg generated pages/Unit Swimmer Maggot.txt",
+    "wikigg generated pages/Unit Swimmer Canari.txt",
+    "wikigg generated pages/Unit Spider Regular.txt"
   ]
 }
