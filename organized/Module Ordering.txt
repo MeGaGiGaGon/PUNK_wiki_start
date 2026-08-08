@@ -13,7 +13,58 @@ Described in text, the process is:
 Described in images, the process looks like this:
 
 <gallery mode="slideshow">
-File:
+File:PUNK Wiki Module Ordering Frame 000.png
+File:PUNK Wiki Module Ordering Frame 001.png
+File:PUNK Wiki Module Ordering Frame 002.png
+File:PUNK Wiki Module Ordering Frame 003.png
+File:PUNK Wiki Module Ordering Frame 004.png
+File:PUNK Wiki Module Ordering Frame 005.png
+File:PUNK Wiki Module Ordering Frame 006.png
+File:PUNK Wiki Module Ordering Frame 007.png
+File:PUNK Wiki Module Ordering Frame 008.png
+File:PUNK Wiki Module Ordering Frame 009.png
+File:PUNK Wiki Module Ordering Frame 010.png
+File:PUNK Wiki Module Ordering Frame 011.png
+File:PUNK Wiki Module Ordering Frame 012.png
+File:PUNK Wiki Module Ordering Frame 013.png
+File:PUNK Wiki Module Ordering Frame 014.png
+File:PUNK Wiki Module Ordering Frame 015.png
+File:PUNK Wiki Module Ordering Frame 016.png
+File:PUNK Wiki Module Ordering Frame 017.png
+File:PUNK Wiki Module Ordering Frame 018.png
+File:PUNK Wiki Module Ordering Frame 019.png
+File:PUNK Wiki Module Ordering Frame 020.png
+File:PUNK Wiki Module Ordering Frame 021.png
+File:PUNK Wiki Module Ordering Frame 022.png
+File:PUNK Wiki Module Ordering Frame 023.png
+File:PUNK Wiki Module Ordering Frame 024.png
+File:PUNK Wiki Module Ordering Frame 025.png
+File:PUNK Wiki Module Ordering Frame 026.png
+File:PUNK Wiki Module Ordering Frame 027.png
+File:PUNK Wiki Module Ordering Frame 028.png
+File:PUNK Wiki Module Ordering Frame 029.png
+File:PUNK Wiki Module Ordering Frame 030.png
+File:PUNK Wiki Module Ordering Frame 031.png
+File:PUNK Wiki Module Ordering Frame 032.png
+File:PUNK Wiki Module Ordering Frame 033.png
 </gallery>
+
+== Shield Ordering ==
+Shields are ordered lowest number inside, highest outside.
+
+For example, this build:
+[[File:Module Ordering Shield Example.png]]
+
+Results in this ordering:
+[[File:Module Ordering Shield Example Screenshot.png]]
+
+== Spread Ordering ==
+Spread cannot go below zero, so it is important that <code>- Spread</code> modules go after <code>Extra Projectile</code> modules.
+
+For example, despite having more than enough <code>- Spread</code>, this build ends up with some left because the <code>Extra Projectiles</code> are later in the order.
+[[File:Module Ordering Spread Example.png]]
+
+By putting the <code>- Spreads</code> later in the order instead, the build works as intended with zero ending spread.
+[[File:Module Ordering Spread Example Fixed.png]]
 
 [[Category:Advanced Guides]]
