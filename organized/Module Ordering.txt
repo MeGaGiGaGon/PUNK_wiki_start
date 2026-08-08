@@ -1,18 +1,27 @@
+{{Ambox
+| color = red
+| icon = Warning-red.svg
+| title = Mirror only
+| message = This page is a mirror of the [https://github.com/MeGaGiGaGon/PUNK_wiki_start/blob/main/organized/Module%20Ordering.txt temp github] while we wait for the official wiki to be approved. Do not edit here, your changes may be overwritten.
+}}
+
 Modules are ordered in a depth-first search starting from the weapon/body/gadget and search Up, Right, Down, and Left.
 
 Described in text, the process is:
 * Starting from the weapon/body/gadget
-## Give the current module the next number
-## Look at directly adjacent module slots in the order Up, Right, Down, Left
-*** If a module has already been numbered, don't consider it
-*** Be wary of modules without all 4 connections, don't consider modules not actually connected
-## If you found a new module, treat it as the current module and go back to 1
-## Otherwise, treat the module with number one less than the current module as the new current and go back to 2
+*# Give the current module the next number
+*# Look at directly adjacent module slots in the order Up, Right, Down, Left
+*#* If a module has already been numbered, don't consider it
+*#* Be wary of modules without all 4 connections, don't consider modules not actually connected
+*# If you found a new module, treat it as the current module and go back to 1
+*# Otherwise, treat the module with number one less than the current module as the new current and go back to 2
 * If you reach the weapon/body/gadget again and it has no more valid modules, you are done
 
 Described in images, the process looks like this:
 
-<gallery mode="slideshow">
+<details>
+<summary>Collapsed because long, click me to open</summary>
+<gallery>
 File:PUNK Wiki Module Ordering Frame 000.png
 File:PUNK Wiki Module Ordering Frame 001.png
 File:PUNK Wiki Module Ordering Frame 002.png
@@ -48,23 +57,28 @@ File:PUNK Wiki Module Ordering Frame 031.png
 File:PUNK Wiki Module Ordering Frame 032.png
 File:PUNK Wiki Module Ordering Frame 033.png
 </gallery>
+</details>
 
 == Shield Ordering ==
 Shields are ordered lowest number inside, highest outside.
 
 For example, this build:
+
 [[File:Module Ordering Shield Example.png]]
 
 Results in this ordering:
+
 [[File:Module Ordering Shield Example Screenshot.png]]
 
 == Spread Ordering ==
 Spread cannot go below zero, so it is important that <code>- Spread</code> modules go after <code>Extra Projectile</code> modules.
 
 For example, despite having more than enough <code>- Spread</code>, this build ends up with some left because the <code>Extra Projectiles</code> are later in the order.
+
 [[File:Module Ordering Spread Example.png]]
 
 By putting the <code>- Spreads</code> later in the order instead, the build works as intended with zero ending spread.
+
 [[File:Module Ordering Spread Example Fixed.png]]
 
 [[Category:Advanced Guides]]
