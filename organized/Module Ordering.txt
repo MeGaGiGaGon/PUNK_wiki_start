@@ -81,4 +81,4 @@ By putting the <code>- Spreads</code> later in the order instead, the build work
 
 [[File:Module Ordering Spread Example Fixed.png]]
 
-[[Category:Advanced Guides]]
+[[Category:Guides]]

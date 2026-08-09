@@ -1,0 +1,15 @@
+There are 6 loadouts, 1 always unlocked and 5 unlockable.
+
+The 5 unloackable loadouts are unlocked by equiping their corresponding primary weapon in a run, and stays unlocked between runs.
+
+Besides the starting weapon, there is no difference between the different loadouts
+
+The loadouts are:
+* Gunner ([[Popper]]) (Always unlocked)
+* Rocketeer ([[Dart]])
+* Slayer ([[Blades]])
+* Rusher ([[Shotgun]])
+* Thrower ([[Debris]])
+* Wormster ([[Worm]])
+
+[[Category:Guides]]
