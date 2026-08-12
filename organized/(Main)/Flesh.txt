@@ -7,7 +7,6 @@
 |Rooms=Small;5|Junction;8
 |Sub Biomes=Subbiome Solid
 |Ecosystems=EcoSys Flesh
-|Ambient Sound=Foley 01.ogg
 }}
 
 [[Category:Biomes]]

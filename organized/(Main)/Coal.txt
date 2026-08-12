@@ -1,12 +1,13 @@
 {{biome infobox
-|Codenames=Coal
 |image=Coal Screenshot.png
-|Id=23
+
 |Background Tile=Obsidian
 |Objects In Rooms=Random Box
 |Rooms=Small;3|Junction;5
 |Ecosystems=EcoSys Coal
-|Ambient Sound=Foley 01.ogg
+
+|Codenames=Coal
+|Id=23
 }}
 
 [[Category:Biomes]]

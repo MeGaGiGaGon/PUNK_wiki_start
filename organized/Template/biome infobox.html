@@ -1,0 +1,14 @@
+<includeonly>{{#invoke:Infobox|main
+|sep=,
+|title={{#if:{{{title|}}}|{{{title}}}|{{SUBPAGENAME}}}}
+|image={{#if:{{{image|}}}|[[File:{{{image}}}{{!}}300px]]}}
+|sections=General Info, Code Info
+
+|General Info=Background Tile, Random Items in Rooms, Rooms, Sub Biomes, Ecosystems
+|General Info_nolabel=yes
+|Rooms={{#arraymap:{{{Rooms|}}}|{{!}}|room|* {{#explode:room|;|0}} (Weight: {{#explode:room|;|1}})|<br>}}
+|Sub Biomes={{#arraymap:{{{Sub Biomes|}}}|{{!}}|biome|* [[biome]]|<br>}}
+|Ecosystems={{#arraymap:{{{Ecosystems|}}}|{{!}}|ecosystem|* [[ecosystem]]|<br>}}
+
+|Code Info=Codenames, Id
+}}</includeonly><noinclude>{{documentation}}</noinclude>

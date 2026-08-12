@@ -1,12 +1,11 @@
 {{biome infobox
-|Codenames=Arena
-|Id=20
 |Background Tile=Solid
 |Rooms=Small;4
 |Random Items in Rooms=Random Box
-|Sub Biomes=
 |Ecosystems=EcoSys Arena
-|Ambient Sound=Foley 01.ogg
+
+|Codenames=Arena
+|Id=20
 }}
 <!-- TODO(GiGaGon): Figure out how to make camera bigger to get image -->
 

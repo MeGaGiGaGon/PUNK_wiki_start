@@ -1,0 +1,44 @@
+== Biome infobox template ==
+<syntaxhighlight lang="wikitext" style="overflow: auto;">
+{{biome infobox
+|image=
+
+|Background Tile=
+|Random Items in Rooms=
+|Rooms=
+|Sub Biomes=
+|Ecosystems=
+
+|Codenames=
+|Id=
+}}
+</syntaxhighlight>
+
+== Biome infobox types and source info (not template) ==
+<syntaxhighlight lang="wikitext" style="overflow: auto;">
+{{biome infobox
+
+|Background Tile=tile name
+From: Biom.backgroundCellType
+
+|Random Items in Rooms=Random Room Item name
+From: Biom.randomObjectInRooms
+Note: Make sure Biom.roomSetups has rooms before including this
+
+|Rooms=| sep of list of room name;weight
+From: Biom.roomSetups
+
+|Sub Biomes=| sep list of biome names
+From: Biom.subBioms
+Note: Make sure Biom.SubBiomSetup.threshold < 1
+
+|Ecosystems=| sep list of ecosystem names
+From: Biom.ecosystems -> Biom.BiomEcosystem.ecosystem -> Ecosystem.name
+
+|Codenames=| sep list
+From: Biom.name
+
+|Id=int
+From: Biom.Id
+}}
+</syntaxhighlight>

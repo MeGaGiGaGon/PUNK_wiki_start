@@ -1,9 +1,10 @@
 {{biome infobox
-image=Border Screenshot.png
+|image=Border Screenshot.png
+
+|Background Tile=Shard
+
 |Codenames=Border
 |Id=1
-|Background Tile=Shard
-|Ambient Sound=Foley 01.ogg
 }}
 <!-- TODO(GiGaGon): Figure out how to disable FOW to get image -->
 

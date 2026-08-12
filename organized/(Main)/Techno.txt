@@ -1,12 +1,13 @@
 {{biome infobox
 |image=Techno Screenshot.png
-|Codenames=Techno
-|Id=16
+
 |Background Tile=Panel
 |Random Items in Rooms=Random Box
 |Rooms=Small;4
 |Ecosystems=EcoSys Techno
-|Ambient Sound=Foley 01.ogg
+
+|Codenames=Techno
+|Id=16
 }}
 
 [[Category:Biomes]]

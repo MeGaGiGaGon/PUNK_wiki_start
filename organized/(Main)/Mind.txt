@@ -6,7 +6,6 @@
 |Random Items in Rooms=Random Box
 |Rooms=Small;3|Junction;5
 |Ecosystems=EcoSys Mind
-|Ambient Sound=Foley 01.ogg
 }}
 
 [[Category:Biomes]]

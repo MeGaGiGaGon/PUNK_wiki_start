@@ -1,3 +1,5 @@
+The most coarse step of world generation. Biomes determine the background tile type, ecosystem type, and allowed Points of Interest
+
 Unused Biomes:
 * Flesh Spot (id 4)
 * Flesh Starter (id 5)
@@ -7,50 +9,3 @@ Unused Biomes:
 * Nest (id 15)
 * Hole (id 18)
 * Techno Scanner (id 26)
-
-== Biome infobox template ==
-<syntaxhighlight lang="wikitext" style="overflow: auto;">
-{{biome infobox
-|image=
-|Codenames=
-|Id=
-|Background Tile=
-|Random Items in Rooms=
-|Rooms=
-|Sub Biomes=
-|Ecosystems=
-|Ambient Sound=
-}}
-</syntaxhighlight>
-
-== Biome infobox info (not template) ==
-<syntaxhighlight lang="wikitext" style="overflow: auto;">
-{{biome infobox
-
-|Codenames=| sep list
-From: Biom.name
-
-|Id=int
-From: Biom.Id
-
-|Background Tile=tile name
-From: Biom.backgroundCellType
-
-|Rooms=| sep of list of room name;weight
-From: Biom.roomSetups
-
-|Random Items in Rooms=Random Room Item name
-From: Biom.randomObjectInRooms
-Note: Make sure Biom.roomSetups has rooms before including this
-
-|Sub Biomes=| sep list of biome names
-From: Biom.subBioms
-Note: Make sure Biom.SubBiomSetup.threshold < 1
-
-|Ecosystems=| sep list of ecosystem names
-From: Biom.ecosystems -> Biom.BiomEcosystem.ecosystem -> Ecosystem.name
-
-|Ambient Sound=sound file name
-From: Biom.ambientClip
-}}
-</syntaxhighlight>

@@ -1,12 +1,13 @@
 {{biome infobox
 |image=Flesh Techno Screenshot.png
-|Codenames=Flesh Techno
-|Id=24
+
 |Background Tile=Bark
 |Random Items in Rooms=Random Box
 |Rooms=Small;5|Junction;8
 |Ecosystems=EcoSys FleshTechno
-|Ambient Sound=Foley 01.ogg
+
+|Codenames=Flesh Techno
+|Id=24
 }}
 
 [[Category:Biomes]]
