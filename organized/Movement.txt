@@ -1,0 +1,60 @@
+Default Drag: 0.5
+Overspeed drag: Max of Default Drag and Default Drag * (rb.linearVelocity.magnitude / MaxSpeed)^2.7
+
+== Hover ==
+Cost: 0 fuel/second
+Drag multiplier: 12
+
+== Directional Inputs ==
+Cost: 0.25 fuel/second
+Max speed: 12.5 tiles/second
+0.25 fuel     1 second
+---------  *  ----------
+1 second      12.5 tiles
+
+== Tap Movement ==
+Cost: 0.03-0.05
+Distance: 2-3
+
+== Boost ==
+Activates 0.5 seconds after dashing
+Multiplies existing speed by 3, up to 19 speed
+
+=== Boosted Directional Inputs ===
+Cost: 0.35 fuel/second
+Increases max speed to 19.0
+
+== Dash ==
+Cost: 0.08 fuel
+
+== Dash-Boost ==
+Costs 0.10 fuel to use
+Vertical Distance: 12 tiles
+0.1/13   =0.0077
+1.768/200=0.0089
+Horizontal Distance: 24.5
+0.1/27   =0.0037
+0.827/200=0.0041
+1.965/434.95=0.00451776066214507
+
+== Dash-Tap-Boost ==
+Costs 0.12 fuel to use
+Vertical Distance: 19-23 tiles
+
+1.320/200 = 0.0066
+Horizontal Distance: 32
+0.0044
+1.815/431.178=0.00420939843869585
+
+Boosting 
+By tapping a direction ~0.1 seconds (TODO(GiGaGon): double check that) before the boost 
+
+
+{{Ambox
+| color = yellow
+| icon = Warning-yellow.svg
+| title = Work In Progress
+| message = This section is still under construction
+}}
+
+[[Category:Guides]]
